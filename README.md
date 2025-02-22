@@ -1,12 +1,12 @@
-#College Site
+# College Site
 ---
-##This site build using
+## This site build using
   - HTML
   - CSS
   - JS
   - Bootstrap
 ---
-##Output
+## Output
 ![img](readmeImg/1.png)
 ![img](readmeImg/2.png)
 ![img](readmeImg/3.png)
